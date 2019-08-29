@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGiftCardApp", "SampleGiftCardApp\SampleGiftCardApp.csproj", "{0C021399-8459-49F6-83C0-1B73E68AC927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C021399-8459-49F6-83C0-1B73E68AC927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C021399-8459-49F6-83C0-1B73E68AC927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C021399-8459-49F6-83C0-1B73E68AC927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C021399-8459-49F6-83C0-1B73E68AC927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F47A90-4A47-4198-8BDE-9434B44F0A00}
+	EndGlobalSection
+EndGlobal
